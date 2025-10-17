@@ -1,0 +1,6 @@
+Car
+Bike
+ship
+Cycle
+Bus
+Train
