@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Car
 Bike
 ship
 Cycle
 Bus
 Train
+=======
+Fishes
+Hens
+Sparrow
+Parrots
+Pigeons
+>>>>>>> b63a55f (commited)
